@@ -4,7 +4,7 @@ description: "Greet someone"
 author: "octocat@github.com"
 
 inputs:
-  my_name_:
+  my_name:
     description: "Who to greet"
     required: true
     default: "Goldorak"
@@ -15,4 +15,4 @@ runs:
 
 branding:
   icon: "mic"
-  color: "yellow"
+  color: "blue"

@@ -9,4 +9,4 @@ jobs:
       - uses: actions/checkout@v1
       - uses: ./action-a
         with:
-          my_name_: "Claude"
+          my_name: "Claude"
