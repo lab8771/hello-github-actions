@@ -7,7 +7,7 @@ inputs:
   my_name:
     description: "Who to greet"
     required: true
-    default: "Claude Labonte"
+    default: "Goldorak"
 
 runs:
   using: "docker"
