@@ -4,10 +4,10 @@ description: "Greet someone"
 author: "octocat@github.com"
 
 inputs:
-  MY_NAME:
+  my_name:
     description: "Who to greet"
     required: true
-    default: "World"
+    default: "Claude Labonte"
 
 runs:
   using: "docker"
